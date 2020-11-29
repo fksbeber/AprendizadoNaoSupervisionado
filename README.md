@@ -1,6 +1,6 @@
 ### Projeto da Matéria de Aprendizado não Supervisionado do curso de Pós Graduação em Data Science da FURB
 
-O objetivo do trabalho é utilizar imagens de faces disponibilizadas no dataset ORL2 junto a imagens de faces de uma nova pessoa e aplicar a técnica PCA para realizar a redução de dimensionalidade e treinar um classificador para indentificar corretamente a pessoa.
+O objetivo do trabalho é utilizar imagens de faces disponibilizadas no dataset ORL2 junto a imagens de faces de uma nova pessoa, aplicar a técnica PCA para realizar a redução de dimensionalidade e treinar um classificador para indentificar corretamente a pessoa.
 
 Para o desenvolvimento do trabalho foi utilizada a linguagem Python e as bibliotecas numpy, pandas, sklearn e opencv.
 
